@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b7078f7-7cc6-470e-88c1-0111e9d208ac" name="Changes" comment="python_boothcamp commit 2" />
+    <list default="true" id="1b7078f7-7cc6-470e-88c1-0111e9d208ac" name="Changes" comment="python_boothcamp commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imports/standardlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Imports/standardlib.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752482825610</updated>
       <workItem from="1752482826698" duration="236000" />
-      <workItem from="1752483075641" duration="620000" />
+      <workItem from="1752483075641" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="python_boothcamp commit 1">
       <option name="closed" value="true" />
@@ -106,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752483683524</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python_boothcamp commit 2">
+      <option name="closed" value="true" />
+      <created>1752483712337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752483712337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +130,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_boothcamp$import_python.coverage" NAME="import_python Coverage Results" MODIFIED="1752483511574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_boothcamp$standardlib.coverage" NAME="standardlib Coverage Results" MODIFIED="1752483660510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imports" />
+    <SUITE FILE_PATH="coverage/Python_boothcamp$standardlib.coverage" NAME="standardlib Coverage Results" MODIFIED="1752483790414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imports" />
   </component>
 </project>
