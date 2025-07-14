@@ -5,6 +5,6 @@ homework_assignment_grades = {
     "homework_3":81
 }
 
-import grade_average_service
+from Imports import grade_average_service as grade_service
 
-grade_average_service.calculate_homework(homework_assignment_grades)
+grade_service.calculate_homework(homework_assignment_grades)
