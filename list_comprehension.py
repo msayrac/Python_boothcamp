@@ -47,14 +47,16 @@
 #
 # for index, color in enumerate(colors,start=1):
 #     print(index, color)
+#
+# numbers = [10,20,30,40]
+# squared = [x**2 if i%2 == 0 else x for i, x in enumerate(numbers)]
+# print(squared)
+#
 
-numbers = [10,20,30,40]
-squared = [x**2 if i%2 == 0 else x for i, x in enumerate(numbers)]
-print(squared)
+person = { "name": "Eric", "age":30, "city":"New York"}
 
-
-
-
+for index, (key,value) in enumerate(person.items()):
+    print(index,key,value)
 
 
 
