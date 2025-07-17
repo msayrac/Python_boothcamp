@@ -1,0 +1,23 @@
+2025-07-17 14:19:32,805 - DEBUG - Debug Message
+2025-07-17 14:19:32,806 - INFO - Info Message
+2025-07-17 14:19:32,806 - WARNING - Warning Message
+2025-07-17 14:19:32,806 - ERROR - Error Message
+2025-07-17 14:19:32,806 - CRITICAL - Critical Message
+2025-07-17 14:20:48,956 - ERROR - e
+Traceback (most recent call last):
+  File "C:\Users\lenovo\PycharmProjects\Python_boothcamp\Python_logging_Tutorial.py", line 16, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2025-07-17 14:20:56,960 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\lenovo\PycharmProjects\Python_boothcamp\Python_logging_Tutorial.py", line 16, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2025-07-17 14:21:07,419 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\lenovo\PycharmProjects\Python_boothcamp\Python_logging_Tutorial.py", line 16, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
